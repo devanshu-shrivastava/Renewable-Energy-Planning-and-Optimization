@@ -1,5 +1,5 @@
 # Optimal Energy Mix Planning for India
-### Minimising the Total Cost of Energy Technologies to Meet Total Demand Under Climate Commitments and Capacity Constraints
+### Using Excel Solver to minimise the total cost of Energy Technologies to meet total demand under climate commitments and capacity constraints
 
 **Course:** Planning and Operations Engineering — Rutgers University, New Brunswick  
 **Instructor:** Dr. David W. Coit  
